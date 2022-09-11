@@ -5,8 +5,9 @@
 local Aimbot = {
 
 Library.flags["Aimbot Active"] = false
+
  }
-}
+
 
 local CIELUVInterpolator = LoadFile("utilities/cieluv_interpolator.lua")
 
